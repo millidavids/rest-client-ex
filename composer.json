@@ -1,0 +1,14 @@
+{
+    "name": "millidavids/rest-client-ex",
+    "authors": [
+        {
+            "name": "millidavids",
+            "email": "david.yurek@realpage.com"
+        }
+    ],
+    "require": {
+        "delatbabel/apisecurity": "^1.2",
+        "illuminate/support": "^5.2",
+        "illuminate/cache": "^5.2"
+    }
+}
